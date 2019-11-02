@@ -55,7 +55,7 @@ w3lib==1.17.0
 waitress==1.0.2
 WebOb==1.7.3
 WebTest==2.0.27
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wstools==0.4.5
 WTForms==2.1
 zope.interface==4.4.2
