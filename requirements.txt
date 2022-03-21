@@ -52,7 +52,7 @@ sqlparse==0.2.3
 Tempita==0.5.2
 virtualenv==15.1.0
 w3lib==1.17.0
-waitress==1.0.2
+waitress==2.1.1
 WebOb==1.7.3
 WebTest==2.0.27
 Werkzeug==0.12.2
